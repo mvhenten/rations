@@ -2,6 +2,8 @@
 
 Ration things within a given policy using timestamps
 
+[![Build Status](https://drone.io/github.com/mvhenten/rations/status.png)](https://drone.io/github.com/mvhenten/rations/latest)
+
 ## Installation
 
     npm install rations

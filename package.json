@@ -1,0 +1,33 @@
+{
+  "name": "rations",
+  "version": "0.0.1",
+  "description": "Ration things within a given policy using timestamps",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhenten/rations.git"
+  },
+  "keywords": [
+    "ratelimit",
+    "ratelimiter",
+    "ration",
+    "simple",
+    "ratelimit"
+  ],
+  "author": "Matthijs van Henten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/rations/issues"
+  },
+  "homepage": "https://github.com/mvhenten/rations#readme",
+  "devDependencies": {
+    "milliseconds": "^1.0.3",
+    "tape": "^4.2.2"
+  }
+}
